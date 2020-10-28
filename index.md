@@ -6,35 +6,40 @@ colorlinks: true
 ---
 
 ![LSE](images/lse-logo.jpg)
-# ST445 Managing and Visualizing Data
+# ST510 Foundations of Machine Learning
 
-### Michaelmas Term 2020
+### Lent Term 2020
 
 ### Instructors
 
-* Chengchun Shi, [c.shi7@lse.ac.uk](mailto:c.shi7@lse.ac.uk), Department of Statistics.  *Office hours*: Tuesday 9-10:00 am, Friday 9-10:00 am, Zoom ID: 929 1256 8563, Passcode: ST445, [Zoom Link](https://lse.zoom.us/j/92912568563?pwd=Z1U3RzJTek0wZ1daV210ZUlWbVZsUT09)
+* Milan Vojnovic, [M.Vojnovic@lse.ac.uk](mailto:M.Vojnovic@lse.ac.uk), Department of Statistics.  *Office hours*: TBD
+* Kostas Kalogeropoulos, [k.kalogeropoulos@lse.ac.uk](mailto:k.kalogeropoulos@lse.ac.uk), Department of Statistics.  *Office hours*: TBD
+* Xinghao Qiao, [x.qiao@lse.ac.uk](mailto:x.qiao@lse.ac.uk), Department of Statistics. *Office hours*: TBD
+* Yining Chen, [Y.Chen101@lse.ac.uk](mailto:Y.Chen101@lse.ac.uk), Department of Statistics. *Office hours*: TBD
+* Joshua Loftus, Department of Statistics. *Office hours*: TBD
+* Chengchun Shi, [c.shi7@lse.ac.uk](mailto:c.shi7@lse.ac.uk), Department of Statistics.  *Office hours*: TBD
 
-### Teachers/GTAs
+### GTA
 
-* Christine Yuen, [l.t.yuen@lse.ac.uk](mailto:l.t.yuen@lse.ac.uk), Department of Statistics. *Office hours*: Tuesday 15-16:00 pm, Zoom ID: 967 2156 4066, Passcode: 044826, [Zoom Link](https://lse.zoom.us/j/96721564066?pwd=cW1PSVlZWDM4YlRIV3U2UXQ5N1ZCdz09)
-* Siliang Zhang, [s.zhang68@lse.ac.uk](mailto:s.zhang68@lse.ac.uk), Department of Statistics. *Office hours*: Wednesday 15-16:00 pm, Zoom ID: 942 362 0935, [Zoom Link](https://lse.zoom.us/j/9423620935)
+* Bento Natura, [b.natura@lse.ac.uk](mailto:b.natura@lse.ac.uk), Department of Mathematics. *Office hours*: TBD
 
 * Please use **LSE Student Hub** to book slots for office hours.
 
 ### Course Information
 
-* **Please send an email** to Christine, Siliang or me with your **GitHub account name or email address (please use a name that does not reveal your identity)** if you would like to have access to the lecture/class materials. For auditing students, you are **not** allowed to attend online or on-campus seminars/classes.
+* **Please send an email** to us with your **GitHub account name or email address (please use a name that does not reveal your identity)** if you would like to have access to the lecture/class materials. For auditing students, you are **not** allowed to attend online or on-campus seminars/classes.
 * Lectures will be pre-recorded and uploaded to Moodle, **not** GitHub. 
-* Classes will be given via a combination of online and on-campus sessions. Wednesday 11:00am-12:30pm (ONLINE), 13-14:30 pm (ONLINE), 13-14:30pm (PAN.G.01).
-**Please DO NOT go to an in-person class at 1pm in PAN.G.01 if you have not registered to that class**
+* Classes will be given via a combination of online and on-campus sessions. 
 
 No lectures or classes will take place during School Reading Week 6.
 
 ### Assessment
 
-Project assignment (60%) and continuous assessment in weeks 3, 5, 8, 10 (10% each). Students will be expected to produce 10 problem sets in the MT.
-
-We will use GitHub classroom to manage our homeworks. Please find the instruction [here](https://github.com/lse-st445/lectures2020/blob/master/Week1/User-Friendly%20Guide%20for%20Submitting%20HW1.pdf). 
+* Exam (40%, duration: 2 hours, reading time: 10 minutes) in the summer exam period.
+* Project (40%, 3000 words) and take-home assessment (20%) in the LT.
+* For the take-home assessments, students will be given homework problem sets and computer programming exercises in weeks 2, 4, 7, and 9.
+* The project assesment will be in April. The project report should be no fewer than 3000 words and students will be asked to submit ther project reports within one week.
+* Students are expected to produce 9 problem sets in the LT, including 4 take-home assessments and 5 formative assignments.
 
 ### Some Code/Suggestions for On-Campus Seminar/Class 
 
