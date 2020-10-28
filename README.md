@@ -1,3 +1,3 @@
-# [lse-st445.github.io](http://lse-st445.github.io)
+# [lse-st510.github.io](http://lse-st510.github.io)
 
-Course handout web page for LSE ST445, Managing and Visualizing Data, MT 2020.
+Course handout web page for LSE ST510, Foundations of Machine Learning, LT 2020.
