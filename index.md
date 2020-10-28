@@ -63,38 +63,33 @@ No lectures or classes will take place during School Reading Week 6.
 
 ### Course Description
 
-In this course you will learn to carry out a full data science project cycle going from data acquisition to reporting with conclusions and visualisations. To do this you will use a range of Python modules: NumPy and Pandas for data cleaning and wrangling, matplotlib and Seaborn for visualisation. We shall emphasise the use of visualisation to check for the integrity of data. Techniques for data acquisition using web-scraping and Application Programming Interfaces (APIs) will be introduced as will the principles behind the use of databases. After Reading Week we will cover some more advanced topics concerned with visualising higher dimensional data sets. These techniques include the use of clustering and dimension reduction algorithms from the scikit-learn module. Finally we will look at using graphs so as to visualise relationships. Throughout, we shall be using Jupyter and Anaconda Python.   
-
-For the final project, we will provide you with a dataset, which you will be expected to transform in order to produce a report with visualizations and conclusions. The report should demonstrate the use of the techniques taught in the course.
+The goal of this course is to provide students with a training in foundations of machine learning with a focus on statistical and algorithmic aspects. Students will learn fundamental statistical principles, algorithms, and how to implement and apply machine learning algorithms using the state-of-the-art Python packages such as scikit-learn, TensorFlow, and OpenAI Gym.
 
 ### Organization
 
-This course is an introduction to the fundamental concepts of data and data visualization for students and assumes no prior knowledge of these concepts.
-
-The course will involve 20 hours of lectures and 15 hours of computer workshops in the MT.
+The course will involve 20 hours of lectures and 10 hours of computer workshops in the LT.
 
 ### Prerequisites
 
-No prior experience with programming is required.
+A knowledge of probability and statistical theory to the level of ST102 and ST206 and some parts of ST505 (e.g. linear models and generalized linear models). Some experience with computer programming will be assumed (e.g., Python, R).
 
-### Software
+### Availability
 
-We will use some tools, notably SQLite and Python, but these will be used in coordination with MY470 (Computer Programming) where their use will be covered more formally.  Lectures and assignments will be posted on Github, Students are expected to use Github also to submit problem sets.
+This course is available on the MPhil/PhD in Statistics. This course is available with permission as an outside option to students on other programmes where regulations permit.
 
-Where appropriate, we will use Jupyter notebooks for lab assignments, demonstrations, and the course notes themselves.
+The availability as an outside option requires a demonstration of sufficient background in mathematics and statistics and is at the discretion of the instructor.
 
 ### Schedule
 
 ------
-#### Week 1. [Introduction to Data](https://github.com/lse-st445/lectures2020/blob/master/Week1/ST445_wk1_lecture.ipynb)
+#### Week 1. [Foundations of supervised learning](https://github.com/lse-st510/lectures2020/blob/master/Week1/ST510_wk1_lecture.ipynb)
 
 In the first week, we will introduce the basic concepts of the course, including how data is recorded, stored, and shared.  Because the course relies fundamentally on GitHub, a collaborative code and data sharing platform, we will introduce the use of git and GitHub, using the lab session to guide students through in setting up an account and subscribing to the course organisation and assignments.
 
 This week will also introduce basic data types from the perspective of machine implementations through to high-level programming languages. A short historical perspective to data science will be given. Issues concerning data integrity will be discussed. The process flow of capturing, wrangling, exploring and visualising data will be emphasised. We will introduce the notion of databases and database managers.
 
 *Lecture Notes*:
-* [Lecture, Week 1](https://github.com/lse-st445/lectures2020/blob/master/Week1/ST445_wk1_lecture.ipynb)
-* [Python example to fix](https://github.com/lse-st445/lectures2020/blob/master/Week1/DebugExercise.ipynb)
+* [Lecture, Week 1](https://github.com/lse-st510/lectures2020/blob/master/Week1/ST510_wk1_lecture.ipynb)
 
 
 *Readings*:
