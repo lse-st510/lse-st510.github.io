@@ -100,6 +100,7 @@ In this week...
 
 *Readings*:
 * Stephen Boyd and Lieven Vandenberghe, Convex Optimization, Cambridge University Press, 2004; text [here](http://web.stanford.edu/~boyd/cvxbook)
+* Sebastien Bubeck, Convex optimization: algorithms and complexity, Now Publishers Inc. 2016; text [here](http://sbubeck.com/Bubeck15.pdf)
 
 *Lab*: TBD
 
@@ -141,7 +142,9 @@ This week ...
 
 This week ...
 
-*Readings*:
+*Readings*: 
+* Ian Goodfellow, Yoshua Bengio, and Aaron Courville, Deep Learning, The MIT Press, 2016
+* Aston Zhang, Zack C. Lipton, Mu Li, and Alex J. Smola, Deep Dive into Deep Learning, 2020; text [here](https://d2l.ai/)
 
 *Lab*: TBD
 
@@ -177,6 +180,6 @@ This week ...
 
 This week ...
 
-*Readings*:
+*Readings*: Richard S. Sutton and Andrew G. Barto, Reinforcement Learning: An Introduction, Second Edition, MIT Press, Cambridge, MA, 2018; text [here](http://www.incompleteideas.net/book/the-book-2nd.html)
 
 *Lab*: TBD
