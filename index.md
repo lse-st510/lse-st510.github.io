@@ -52,11 +52,11 @@ No lectures or classes will take place during School Reading Week 6.
 
 | **Week** | **Topic**                            | **Week** | **Topic**      |
 |:----------:|:--------------------------------------|:----:|:----|
-| 1        | [Introduction to Data](#week-1-introduction-to-data) | 7        | [Exploratory data analysis](#week-7-exploratory-data-analysis)          |
-| 2        | [Python and NumPy Data Structures](#week-2-python-and-numpy-data-structures)                  | 8        | [Matrix data visualization](#week-8-matrix-data-visualization) |
-| 3        | [Wrangling Data with Pandas](#week-3-wrangling-data-with-pandas)    | 9        | [Model evaluation](#week-9-model-evaluation)                   |
-| 4        | [Creating and Managing Databases](#week-4-creating-and-managing-databases)       | 10       | [Dimensionality reduction](#week-10-dimensionality-reduction)           |
-| 5        | [Collecting Data from the Internet](#week-5-collecting-data-from-the-internet)                  |  11       | [Graph data visualization](#week11-graph-data-visualization)           |
+| 1        | [Foundations of supervised learning](#week-1-foundations-of-supervised-learning) | 7        | [Neural networks](#week-7-neural-networks)          |
+| 2        | [Convex optimisation](#week-2-convex-optimisation)                  | 8        | [Unsupervised learning - clustering](#week-8-unsupervised-learning-clustering) |
+| 3        | [Non-convex optimisation](#week-3-nonconvex-optimisation)    | 9        | [Unsupervised learning - dimension reduction](#week-9-unsupervised-learning-dimension-reduction)                   |
+| 4        | [Support vector machines](#week-4-support-vector-machines)       | 10       | [Online learning and optimisation](#week-10-online-learning-and-optimisation)           |
+| 5        | [Decision trees and random forests](#week-5-decision-trees-and-random-forests)                  |  11       | [Reinforcement learning](#week11-reinforcement-learning)           |
 | 6        | _Reading Week_                       |
 
 
