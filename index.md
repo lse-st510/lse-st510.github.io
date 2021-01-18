@@ -74,7 +74,7 @@ In this lecture we cover basic concepts and some of the key results of statistic
 *Readings*:
 * Shai Shalev-Shwartz and Shai Ben-David, Understanding Machine Learning: from Theory to Algorithms, Cambridge University Press, 2014; text [here](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 * Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar, Foundations of Machine Learning, 2nd Edition, The MIT Press, 2018
-* Martin J. Wanwright, High-Dimensional Statistics: A Non-Asymptotic Viewpoint, Cambridge University Press, 2019 (Chapter 2, Basic tail and concentration inequalities)
+* Martin J. Wainwright, High-Dimensional Statistics: A Non-Asymptotic Viewpoint, Cambridge University Press, 2019 (Chapter 2, Basic tail and concentration inequalities)
 
 *Lab*: 
 * PAC learning
