@@ -18,22 +18,6 @@
 
 Please use **LSE Student Hub** to book slots for seminar office hours.
 
-### Course information
-
-* **Please send an email** to us **WHO IN PARTICULAR?** with your **GitHub account name or email address (please use a name that does not reveal your identity)** if you would like to have access to the lecture/class materials. For auditing students, you are **not** allowed to attend online or on-campus seminars/classes.
-* Lectures will be delivered online live and subsequently a video recording will be uploaded to Moodle. 
-* Classes will be delivered online. 
-
-No lectures or classes will take place during School Reading Week 6.
-
-### Assessment
-
-* Exam (40%, duration: 2 hours, reading time: 10 minutes) in the summer exam period.
-* Project (40%, 3000 words) and take-home assessment (20%) in the LT.
-* For the take-home assessments, students will be given homework problem sets and computer programming exercises in weeks 2, 4, 7, and 9.
-* The project assesment will be in April. The project report should be no fewer than 3000 words and students will be asked to submit ther project reports within one week.
-* Students are expected to produce 9 problem sets in the LT, including 4 take-home assessments and 5 formative assignments.
-
 
 | **Week** | **Topic**                            | **Week** | **Topic**      |
 |:----------:|:--------------------------------------|:----:|:----|
