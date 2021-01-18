@@ -12,7 +12,7 @@ colorlinks: true
 
 ### Instructors
 
-* Milan Vojnovic, [M.Vojnovic@lse.ac.uk](mailto:M.Vojnovic@lse.ac.uk), Department of Statistics.  *Office hours*: TBD
+* Milan Vojnovic, [M.Vojnovic@lse.ac.uk](mailto:M.Vojnovic@lse.ac.uk), Department of Statistics.  *Office hours*: by appointment
 * Kostas Kalogeropoulos, [k.kalogeropoulos@lse.ac.uk](mailto:k.kalogeropoulos@lse.ac.uk), Department of Statistics.  *Office hours*: TBD
 * Xinghao Qiao, [x.qiao@lse.ac.uk](mailto:x.qiao@lse.ac.uk), Department of Statistics. *Office hours*: TBD
 * Yining Chen, [Y.Chen101@lse.ac.uk](mailto:Y.Chen101@lse.ac.uk), Department of Statistics. *Office hours*: TBD
@@ -52,7 +52,7 @@ No lectures or classes will take place during School Reading Week 6.
 
 | **Week** | **Topic**                            | **Week** | **Topic**      |
 |:----------:|:--------------------------------------|:----:|:----|
-| 1        | [Foundations of supervised learning](#week-1-foundations-of-supervised-learning) | 7        | [Neural networks](#week-7-neural-networks)          |
+| 1        | [Statistical learning theory](#week-1-statistical-learning-theory) | 7        | [Neural networks](#week-7-neural-networks)          |
 | 2        | [Convex optimisation](#week-2-convex-optimisation)                  | 8        | [Unsupervised learning - clustering](#week-8-unsupervised-learning-clustering) |
 | 3        | [Non-convex optimisation](#week-3-nonconvex-optimisation)    | 9        | [Unsupervised learning - dimension reduction](#week-9-unsupervised-learning-dimension-reduction)                   |
 | 4        | [Support vector machines](#week-4-support-vector-machines)       | 10       | [Online learning and optimisation](#week-10-online-learning-and-optimisation)           |
@@ -82,16 +82,20 @@ The availability as an outside option requires a demonstration of sufficient bac
 ### Schedule
 
 ------
-#### Week 1. Foundations of supervised learning
+#### Week 1. Statistical learning theory
 
-In the first week, we will introduce the basic concepts of the course, including...
+In this lecture we cover basic concepts and some of the key results of statistical learning theory. We start with an introduction to basic assumptions of the statistical learning framework and the key concept of *probably almost correct* (PAC) learning, and discuss the concept of the *bias-complexity trade-off*. We then discuss two facts for learning infinite hypothesis classes: first, that some infinite hypothesis classes are learnable, and second, that a universal learner that has no prior knowledge cannot be successful in learning any given task. We then introduce and discuss different concepts for learning infinite hypothesis classes, starting with  *uniform convergence* and showing that it is a sufficient condition for learning. We then introduce the concepts of *Rademacher complexity* and *growth function*, and fundamental bounds for learning using these concepts. Finally, we introduce the concept of *VC-dimension*, its relation to the growth function, and the *fundamental theorem of PAC learning*. 
 
 *Readings*:
-* Avrim Blum, John Hopcroft and Ravindran Kannan, Foundations of Data Science, Cambridge University Press, 2020; text [here](https://www.cs.cornell.edu/jeh/book.pdf)  
-* Trevor Hastie, Robert Tibshirani and Jerome Friedman, The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition, Springer, 2017
 * Shai Shalev-Shwartz and Shai Ben-David, Understanding Machine Learning: from Theory to Algorithms, Cambridge University Press, 2014; text [here](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
+* Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar, Foundations of Machine Learning, 2nd Edition, The MIT Press, 2018
+* Martin J. Wanwright, High-Dimensional Statistics: A Non-Asymptotic Viewpoint, Cambridge University Press, 2019 (Chapter 2, Basic tail and concentration inequalities)
 
-*Lab*: TBD
+*Lab*: 
+* PAC learning
+* Bias-complexity trade-off: polynomical regression example
+* Rademacher complexity and growth function example
+* VC dimension example
 
 ------
 #### Week 2. Convex optimisation
