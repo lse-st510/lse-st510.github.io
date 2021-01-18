@@ -12,24 +12,24 @@ colorlinks: true
 
 ### Instructors
 
+* Yining Chen, [Y.Chen101@lse.ac.uk](mailto:Y.Chen101@lse.ac.uk), Department of Statistics. *Office hours*: by appointment
+* Kostas Kalogeropoulos, [k.kalogeropoulos@lse.ac.uk](mailto:k.kalogeropoulos@lse.ac.uk), Department of Statistics.  *Office hours*: by appointment
+* Joshua Loftus, Department of Statistics. *Office hours*: by appointment
+* Xinghao Qiao, [x.qiao@lse.ac.uk](mailto:x.qiao@lse.ac.uk), Department of Statistics. *Office hours*: by appointment
+* Chengchun Shi, [c.shi7@lse.ac.uk](mailto:c.shi7@lse.ac.uk), Department of Statistics.  *Office hours*: by appointment
 * Milan Vojnovic, [M.Vojnovic@lse.ac.uk](mailto:M.Vojnovic@lse.ac.uk), Department of Statistics.  *Office hours*: by appointment
-* Kostas Kalogeropoulos, [k.kalogeropoulos@lse.ac.uk](mailto:k.kalogeropoulos@lse.ac.uk), Department of Statistics.  *Office hours*: TBD
-* Xinghao Qiao, [x.qiao@lse.ac.uk](mailto:x.qiao@lse.ac.uk), Department of Statistics. *Office hours*: TBD
-* Yining Chen, [Y.Chen101@lse.ac.uk](mailto:Y.Chen101@lse.ac.uk), Department of Statistics. *Office hours*: TBD
-* Joshua Loftus, Department of Statistics. *Office hours*: TBD
-* Chengchun Shi, [c.shi7@lse.ac.uk](mailto:c.shi7@lse.ac.uk), Department of Statistics.  *Office hours*: TBD
 
-### GTA
+### Teaching assistant
 
 * Bento Natura, [b.natura@lse.ac.uk](mailto:b.natura@lse.ac.uk), Department of Mathematics. *Office hours*: TBD
 
-* Please use **LSE Student Hub** to book slots for office hours.
+Please use **LSE Student Hub** to book slots for seminar office hours.
 
-### Course Information
+### Course information
 
-* **Please send an email** to us with your **GitHub account name or email address (please use a name that does not reveal your identity)** if you would like to have access to the lecture/class materials. For auditing students, you are **not** allowed to attend online or on-campus seminars/classes.
-* Lectures will be pre-recorded and uploaded to Moodle, **not** GitHub. 
-* Classes will be given via a combination of online and on-campus sessions. 
+* **Please send an email** to us **WHO IN PARTICULAR?** with your **GitHub account name or email address (please use a name that does not reveal your identity)** if you would like to have access to the lecture/class materials. For auditing students, you are **not** allowed to attend online or on-campus seminars/classes.
+* Lectures will be delivered online live and subsequently a video recording will be uploaded to Moodle. 
+* Classes will be delivered online. 
 
 No lectures or classes will take place during School Reading Week 6.
 
