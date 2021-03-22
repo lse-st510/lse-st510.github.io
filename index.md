@@ -81,11 +81,19 @@ In this week...
 
 #### Week 3. Non-convex optimisation
 
-This week ...
+In this week we will introduce and describe the problem of non-convex optimisation. This is problem is particularly challenging, known as a *NP-Hard* problem. We will focus on techniques such as Random Gradient Descent methods, Bayesian optimisation, Markov Chain Monte Carlo and we will briefly touch Genetic Algorithms. The focus will be on the principles while keeping close tabs with applications. You can find the lecture slides below as well as some further reading which you may explore further if want to do a project on non-convex optimisation.
+
+* Lecture [slides](https://github.com/lse-st510/Lectures2021/blob/main/Week3/SlidesWeek03.pdf)
 
 *Readings*:
+* [Tutorial](https://arxiv.org/abs/1807.02811) on Bayesian Optimisation by Peter Frazier
+* [Blog](http://krasserm.github.io/2018/03/21/bayesian-optimization/) on Bayesian Optimisation by Martin Krasser
+* [Textbook](https://www.mcmchandbook.net/) on MCMC
+* [Introduction](https://arxiv.org/abs/1701.02434) to Hamiltonian MCMC
+* [Paper](http://www-stat.wharton.upenn.edu/~edgeorge/Research_papers/GeorgeMcCulloch97.pdf) on Bayesian variable selection
+* [Paper](https://www.cs.ubc.ca/~arnaud/delmoral_doucet_jasra_smcsamplers_jrssb.pdf) on Sequential Monte Carlo
 
-*Lab*: TBD
+*Lab*: 
 
 ------
 #### Week 4. Support vector machines
