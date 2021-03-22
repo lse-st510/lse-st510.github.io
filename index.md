@@ -56,7 +56,7 @@ The availability as an outside option requires a demonstration of sufficient bac
 In this lecture we cover basic concepts and some of the key results of statistical learning theory. We start with an introduction to basic assumptions of the statistical learning framework and the key concept of *probably almost correct* (PAC) learning, and discuss the concept of the *bias-complexity trade-off*. We then discuss two facts for learning infinite hypothesis classes: first, that some infinite hypothesis classes are learnable, and second, that a universal learner that has no prior knowledge cannot be successful in learning any given task. We then introduce and discuss different concepts for learning infinite hypothesis classes, starting with  *uniform convergence* and showing that it is a sufficient condition for learning. We then introduce the concepts of *Rademacher complexity* and *growth function*, and fundamental bounds for learning using these concepts. Finally, we introduce the concept of *VC-dimension*, its relation to the growth function, and the *fundamental theorem of PAC learning*. 
 
 *Readings*:
-* Shai Shalev-Shwartz and Shai Ben-David, Understanding Machine Learning: from Theory to Algorithms, Cambridge University Press, 2014; text [here](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
+* Shai Shalev-Shwartz and Shai Ben-David, Understanding Machine Learning: from Theory to Algorithms, Cambridge University Press, 2014; [online](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 * Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar, Foundations of Machine Learning, 2nd Edition, The MIT Press, 2018
 * Martin J. Wainwright, High-Dimensional Statistics: A Non-Asymptotic Viewpoint, Cambridge University Press, 2019 (Chapter 2, Basic tail and concentration inequalities)
 
@@ -145,9 +145,9 @@ This week ...
 In this lecture we discuss some fundamental results of online learning. We start with online classification where we introduce the basic concept of online learnability and the notion of Littlestone's dimension, prediction mistake bounds for various algorithms, and classic weighted majority algorithm and regret bounds derived by using this algorithm. We then consider online convex optimization and establish a regret bound of the online gradient descent algorithm. We finally discuss the online perceptron algorithm, and establish a bound for the prediction mistakes for this algorithm by showing that the perceptron algorithm is an online gradient descent algorithm defined for certain surrogate convex loss function. 
 
 *Readings*:
-* Shai Shalev-Shwartz and Shai Ben-David, Understanding Machine Learning: from Theory to Algorithms, Cambridge University Press, 2014; text [here](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
-* Elad Hazan, Introduction to Online Convex Optimization, manuscript, 2019, [online](https://sites.google.com/view/intro-oco/). 
-* Alexandrs Slivkins, Introduction to Multi-Armed Bandits, Now Publishers, 2019 (Chapter 5), [online](https://arxiv.org/pdf/1904.07272.pdf).
+* Shai Shalev-Shwartz and Shai Ben-David, Understanding Machine Learning: from Theory to Algorithms, Cambridge University Press, 2014; [online](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
+* Elad Hazan, Introduction to Online Convex Optimization, manuscript, 2019; [online](https://sites.google.com/view/intro-oco/). 
+* Alexandrs Slivkins, Introduction to Multi-Armed Bandits, Now Publishers, 2019 (Chapter 5); [online](https://arxiv.org/pdf/1904.07272.pdf).
 
 *Lab*:
 * Weighted majority algorithm
