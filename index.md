@@ -93,7 +93,11 @@ In this week we will introduce and describe the problem of non-convex optimisati
 * [Paper](http://www-stat.wharton.upenn.edu/~edgeorge/Research_papers/GeorgeMcCulloch97.pdf) on Bayesian variable selection
 * [Paper](https://www.cs.ubc.ca/~arnaud/delmoral_doucet_jasra_smcsamplers_jrssb.pdf) on Sequential Monte Carlo
 
-*Lab*: 
+*Lab*:
+ * Sampling from the posterior using the Gibbs Sampler in Python
+ * Presenting the output of a Markov Chain Monte Carlo (MCMC) ouput 
+ * Sparse Linear Regression
+ * Spike and Slab Priors in Linear Regression
 
 ------
 #### Week 4. Support vector machines
