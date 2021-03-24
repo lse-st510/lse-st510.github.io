@@ -69,13 +69,21 @@ In this lecture we cover basic concepts and some of the key results of statistic
 ------
 #### Week 2. Convex optimisation
 
-In this week...
+In this lecture we cover basic concepts and algorithms of convex optimisation. We start with the definition of convexity, as well as the implications of having a convex objective function to minimise. We then look into the unvariate case, focusing on bisection method, gradient descent and Newton--Raphson. We discuss the convergence rates, as well as some theory for the afore-mentioned algorithms. These algorithms are illustrated again in the multi-variate setting. Other topics such as coordinate descent, stochastic gradient descent (SGD), and acceleration by momentum are also briefly covered.
+
+* Lecture [slides](https://github.com/lse-st510/Lectures2021/blob/main/Week2/Lecture2.pdf)
 
 *Readings*:
-* Stephen Boyd and Lieven Vandenberghe, Convex Optimization, Cambridge University Press, 2004; text [here](http://web.stanford.edu/~boyd/cvxbook)
+* Stephen Boyd and Lieven Vandenberghe, Convex optimization, Cambridge University Press, 2004; text [here](http://web.stanford.edu/~boyd/cvxbook)
 * Sebastien Bubeck, Convex optimization: algorithms and complexity, Now Publishers Inc. 2016; text [here](http://sbubeck.com/Bubeck15.pdf)
+* Jorge Nocedal and Stephen J. Wright,  Numerical optimization, Springer, 2006; text [here](https://www.springer.com/gp/book/9780387303031) - free access via LSE library
+* Shai Ben-David and Shai Shalev-Shwartz, Understanding machine learning: from theory to algorithms, Cambridge University Press, 2014; text [here](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html)
 
-*Lab*: TBD
+*Lab*:
+* Some theory for convex analysis
+* Exercise on convergence rates
+* Implementing bi-section/Newton/Stochastic gradient in Python
+* Basic stochastic gradient descent in Python for logistic regression
 
 ------
 
