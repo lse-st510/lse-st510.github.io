@@ -76,7 +76,7 @@ In this lecture we cover basic concepts and algorithms of convex optimisation. W
 *Readings*:
 * Stephen Boyd and Lieven Vandenberghe, Convex optimization, Cambridge University Press, 2004; text [here](http://web.stanford.edu/~boyd/cvxbook)
 * Sebastien Bubeck, Convex optimization: algorithms and complexity, Now Publishers Inc. 2016; text [here](http://sbubeck.com/Bubeck15.pdf)
-* Jorge Nocedal and Stephen J. Wright,  Numerical optimization, Springer, 2006; text [here](https://www.springer.com/gp/book/9780387303031) (for free access - via LSE library)
+* Jorge Nocedal and Stephen Wright,  Numerical optimization, Springer, 2006; text [here](https://www.springer.com/gp/book/9780387303031) (for free access - via LSE library)
 * Shai Ben-David and Shai Shalev-Shwartz, Understanding machine learning: from theory to algorithms, Cambridge University Press, 2014; text [here](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html)
 
 *Lab*:
@@ -153,11 +153,20 @@ This week ...
 ------
 #### Week 9. Unsupervised learning - dimension reduction
 
-This week ...
+In this lecture we cover some popular strategies and algorithms for dimension reduction. We start with principle component analysis (PCA), discussing various ways of performing and interpreting PCA, and showing their equivalence. We then move on to show how the PCA can be extended in different directions, either by having more constraints, or by performing non-linear (instead of linear) transformation. In particular, we briefly discuss the key ideas behind sparse PCA, non-negative matrix factorization (NMF), multidimensional scaling (MDS), and autoencoder.
+
+* Lecture [slides](https://github.com/lse-st510/Lectures2021/blob/main/Week9/Lecture_slides.pdf)
 
 *Readings*:
+* Trevor Hastie, Robert Tibshirani, Jerome Friedman, The elements of statistical learning, Springer, 2009; [Book](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+* Youwei Zhang, Alexandre d'Aspremont and Laurent El Ghaoui, Sparse PCA: convex relaxations, algorithms and applications, 2010; [Paper](https://arxiv.org/abs/1011.3781) 
+* Benyamin Ghojogh, Ali Ghodsi, Fakhri Karray and Mark Crowley, Multidimensional scaling, sammon mapping, and isomap: tutorial and survey, 2020; [Paper](https://arxiv.org/abs/2009.08136) 
+* Ian Goodfellow, Yoshua Bengio, and Aaron Courville, Deep learning, The MIT Press, 2016; [Book](https://www.deeplearningbook.org)
+* James Gentle, Matrix algebra: theory, computations, and applications in statistics, Springer, 2007; [Book](https://www.springer.com/gp/book/9780387708720) (for free access - via LSE library)
 
-*Lab*: TBD
+*Lab*: 
+* Using PCA, NMF, MDS and autoencoder in Python
+* A discussion on Johnson-Lindenstrauss Lemma [Paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.6717&rep=rep1&type=pdf) 
 
 ------
 #### Week 10. Online learning
