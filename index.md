@@ -125,8 +125,8 @@ This week ...
 *Readings*:
 
 *Lab*: 
-* Construct classification trees using different node purity measures.
-* Regression/classification trees, tree pruning, random forest and bagging in Python.
+* Constructing classification trees using different node purity measures.
+* Implementing regression/classification trees, tree pruning, random forest and bagging in Python.
 ------
 #### Week 6. Reading Week
 
@@ -145,13 +145,19 @@ This week ...
 ------
 #### Week 8. Unsupervised learning - clustering
 
-In this lecture we cover some 
+In this lecture we cover some commonly adopted clustering mehtods to find subgroups and clusters in a dataset. We start with k-means clustering, discussing k-means alogirthm, "overfit then merge" strategy, k-means++ algortihm, the selection of k, theoretical guarantees and high-dimensional clusterings. We then briefly discuss hierarchical clustering including the algorithm, types of linkage and similarity measures. Finally, we discuss spectral clustering using ideas related to eigenanalysis, including different types Laplacians, supporting theorems, the algorithm and illustrative examples.
 
 *Readings*:
+* [Textbook](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) on k-means and hierarchical clustering
+* [Paper](https://theory.stanford.edu/~sergei/papers/kMeansPP-soda.pdf) on k-means++ algortihm
+* [Paper](https://www.tandfonline.com/doi/abs/10.1198/016214508000000454) on selecting the number of clusters
+* [Paper](https://mast.queensu.ca/~linder/pdf/LiLuZe94.pdf) on theoretical analysis of k-means clustering
+* [Paper](https://www.tandfonline.com/doi/abs/10.1198/jasa.2010.tm09415) on sparse k-means
+* [Tutorial](https://arxiv.org/pdf/0711.0189.pdf) on spectral clustering
 
 *Lab*:
- * Prove the convergence for k-means clustering.
- * Implement k-means clustering, hierarchical clustering and spectral clustering in Python.
+ * Theoretical analysis of k-means clustering.
+ * Implementing k-means clustering, hierarchical clustering and spectral clustering in Python.
 
 ------
 #### Week 9. Unsupervised learning - dimension reduction
