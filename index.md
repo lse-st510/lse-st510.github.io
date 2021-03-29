@@ -124,8 +124,9 @@ This week ...
 
 *Readings*:
 
-*Lab*: TBD
-
+*Lab*: 
+* Construct classification trees using different node purity measures.
+* Regression/classification trees, tree pruning, random forest and bagging in Python.
 ------
 #### Week 6. Reading Week
 
