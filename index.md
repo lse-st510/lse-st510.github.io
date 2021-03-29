@@ -120,9 +120,15 @@ This week ...
 
 #### Week 5. Decision trees and random forests
 
-This week ...
+In this lecture we cover tree-based methods and some ensemble methods. We start with regression tree, discussing 
+
+* Lecture [slides](https://github.com/lse-st510/Lectures2021/blob/main/Week5/ST510_Lecture%205%20slides.pdf)
 
 *Readings*:
+* [Textbook](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) on k-means and hierarchical clustering
+* [Paper](https://projecteuclid.org/journals/annals-of-statistics/volume-30/issue-4/Analyzing-bagging/10.1214/aos/1031689014.full) on theoretical analysis of bagging
+* [Paper](https://www.jmlr.org/papers/volume13/biau12a/biau12a.pdf)(https://projecteuclid.org/journals/annals-of-statistics/volume-43/issue-4/Consistency-of-random-forests/10.1214/15-AOS1321.full) on theoretical analysis of random forests
+* [Paper](https://erwanscornet.github.io/pdf/articlekernel.pdf) on kernel-based random forests
 
 *Lab*: 
 * Constructing classification trees using different node purity measures.
