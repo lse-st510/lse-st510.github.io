@@ -102,10 +102,10 @@ In this week we will introduce and describe the problem of non-convex optimisati
 * [Paper](https://www.cs.ubc.ca/~arnaud/delmoral_doucet_jasra_smcsamplers_jrssb.pdf) on Sequential Monte Carlo
 
 *Lab*:
- * Sampling from the posterior using the Gibbs Sampler in Python
- * Presenting the output of a Markov Chain Monte Carlo (MCMC) ouput 
- * Sparse Linear Regression
- * Spike and Slab Priors in Linear Regression
+* Sampling from the posterior using the Gibbs Sampler in Python
+* Presenting the output of a Markov Chain Monte Carlo (MCMC) ouput 
+* Sparse Linear Regression
+* Spike and Slab Priors in Linear Regression
 
 ------
 #### Week 4. Support vector machines
@@ -144,11 +144,13 @@ This week ...
 ------
 #### Week 8. Unsupervised learning - clustering
 
-This week ...
+In this lecture we cover some 
 
 *Readings*:
 
-*Lab*: TBD
+*Lab*:
+ * Prove the convergence for k-means clustering.
+ * Implement k-means clustering, hierarchical clustering and spectral clustering in Python.
 
 ------
 #### Week 9. Unsupervised learning - dimension reduction
