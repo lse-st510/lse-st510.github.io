@@ -125,10 +125,10 @@ In this lecture we cover tree-based methods and some ensemble methods. We start 
 * Lecture [slides](https://github.com/lse-st510/Lectures2021/blob/main/Week5/ST510_Lecture%205%20slides.pdf)
 
 *Readings*:
-* [Textbook](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) on k-means and hierarchical clustering
-* [Paper](https://projecteuclid.org/journals/annals-of-statistics/volume-30/issue-4/Analyzing-bagging/10.1214/aos/1031689014.full) on theoretical analysis of bagging
-* [Paper 1](https://www.jmlr.org/papers/volume13/biau12a/biau12a.pdf), [Paper 2](https://projecteuclid.org/journals/annals-of-statistics/volume-43/issue-4/Consistency-of-random-forests/10.1214/15-AOS1321.full) on theoretical analysis of random forests
-* [Paper](https://erwanscornet.github.io/pdf/articlekernel.pdf) on kernel-based random forests
+* [Textbook](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) on regression/classification trees, bagging and random forests.
+* [Paper](https://projecteuclid.org/journals/annals-of-statistics/volume-30/issue-4/Analyzing-bagging/10.1214/aos/1031689014.full) on theoretical analysis of bagging.
+* [Paper 1](https://www.jmlr.org/papers/volume13/biau12a/biau12a.pdf), [Paper 2](https://projecteuclid.org/journals/annals-of-statistics/volume-43/issue-4/Consistency-of-random-forests/10.1214/15-AOS1321.full) on theoretical analysis of random forests.
+* [Paper](https://erwanscornet.github.io/pdf/articlekernel.pdf) on kernel-based random forests.
 
 *Lab*: 
 * Constructing classification trees using different node purity measures.
@@ -153,15 +153,15 @@ This week ...
 
 In this lecture we cover some commonly adopted clustering mehtods to find subgroups and clusters in a dataset. We start with k-means clustering, discussing k-means alogirthm, "overfit then merge" strategy, k-means++ algortihm, the selection of k, theoretical guarantees and high-dimensional clusterings. We then briefly discuss hierarchical clustering including the algorithm, types of linkage and similarity measures. Finally, we discuss spectral clustering using ideas related to eigenanalysis, including different types Laplacians, supporting theorems, the algorithm and illustrative examples.
 
-* Lecture [slides](https://github.com/lse-st510/Lectures2021/blob/main/Week8/ST510_Lecture%207%20slides.pdf)
+* Lecture [slides](https://github.com/lse-st510/Lectures2021/blob/main/Week8/ST510_Lecture%207%20slides.pdf).
 
 *Readings*:
-* [Textbook](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) on k-means and hierarchical clustering
-* [Paper](https://theory.stanford.edu/~sergei/papers/kMeansPP-soda.pdf) on k-means++ algortihm
-* [Paper](https://www.tandfonline.com/doi/abs/10.1198/016214508000000454) on selecting the number of clusters
-* [Paper](https://mast.queensu.ca/~linder/pdf/LiLuZe94.pdf) on theoretical analysis of k-means clustering
-* [Paper](https://www.tandfonline.com/doi/abs/10.1198/jasa.2010.tm09415) on sparse k-means
-* [Tutorial](https://arxiv.org/pdf/0711.0189.pdf) on spectral clustering
+* [Textbook](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) on k-means and hierarchical clustering.
+* [Paper](https://theory.stanford.edu/~sergei/papers/kMeansPP-soda.pdf) on k-means++ algortihm.
+* [Paper](https://www.tandfonline.com/doi/abs/10.1198/016214508000000454) on selecting the number of clusters.
+* [Paper](https://mast.queensu.ca/~linder/pdf/LiLuZe94.pdf) on theoretical analysis of k-means clustering.
+* [Paper](https://www.tandfonline.com/doi/abs/10.1198/jasa.2010.tm09415) on sparse k-means.
+* [Tutorial](https://arxiv.org/pdf/0711.0189.pdf) on spectral clustering.
 
 *Lab*:
  * Theoretical analysis of k-means clustering.
