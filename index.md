@@ -203,8 +203,14 @@ In this lecture we discuss some fundamental results of online learning. We start
 ------
 #### Week 11. Reinforcement learning
 
-This week ...
+In this lecture we cover some popular reinforcement learning algorithms. We start with discussing applications that could benefit from applying reinforcement learning algorithms. We then introduce various basic concepts as well as the mathematical foundations of reinforcement learning. We next focus on one of the most popular class of reinforcement learning algorithms: Q-learning, and introduce some detailed algorithms such as tabular Q-learning, tabular SARSA, fitted Q-iteration and deep Q-network. Finally, we briefly talk about policy-based learning and highlight their difference from Q-learning.
 
-*Readings*: Richard S. Sutton and Andrew G. Barto, Reinforcement Learning: An Introduction, Second Edition, MIT Press, Cambridge, MA, 2018; text [here](http://www.incompleteideas.net/book/the-book-2nd.html)
+*Readings*: 
+* Richard S. Sutton and Andrew G. Barto, Reinforcement Learning: An Introduction, Second Edition, MIT Press, Cambridge, MA, 2018; text [here](http://www.incompleteideas.net/book/the-book-2nd.html)
+* Martin L. Puterman, Markov decision processes: discrete stochastic dynamic programming. John Wiley & Sons, 2014.
 
-*Lab*: TBD
+
+*Lab*: 
+* An introduction of OpenAI Gym
+* Q-learning
+* Policy-based learning 
