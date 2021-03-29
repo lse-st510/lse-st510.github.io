@@ -147,6 +147,8 @@ This week ...
 
 In this lecture we cover some commonly adopted clustering mehtods to find subgroups and clusters in a dataset. We start with k-means clustering, discussing k-means alogirthm, "overfit then merge" strategy, k-means++ algortihm, the selection of k, theoretical guarantees and high-dimensional clusterings. We then briefly discuss hierarchical clustering including the algorithm, types of linkage and similarity measures. Finally, we discuss spectral clustering using ideas related to eigenanalysis, including different types Laplacians, supporting theorems, the algorithm and illustrative examples.
 
+* Lecture [slides](https://github.com/lse-st510/Lectures2021/blob/main/Week9/ST510_Lecture 7 slides.pdf)
+* 
 *Readings*:
 * [Textbook](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) on k-means and hierarchical clustering
 * [Paper](https://theory.stanford.edu/~sergei/papers/kMeansPP-soda.pdf) on k-means++ algortihm
