@@ -120,7 +120,7 @@ This week ...
 
 #### Week 5. Decision trees and random forests
 
-In this lecture we cover tree-based methods and some ensemble methods. We start with regression tree, discussing 
+In this lecture we cover tree-based methods and some ensemble methods. We start with regression and classification tree, discussing the algorithm, cost complexity pruning, different node purity measures and illustrative examples. We then discuss bagging and random forests, including e.g. the variance reduction, Out-of-Bag errors and kernel-based random forests. Some recent developments of random forests will also be briefly mentioned.
 
 * Lecture [slides](https://github.com/lse-st510/Lectures2021/blob/main/Week5/ST510_Lecture%205%20slides.pdf)
 
@@ -129,6 +129,7 @@ In this lecture we cover tree-based methods and some ensemble methods. We start 
 * [Paper](https://projecteuclid.org/journals/annals-of-statistics/volume-30/issue-4/Analyzing-bagging/10.1214/aos/1031689014.full) on theoretical analysis of bagging.
 * [Paper 1](https://www.jmlr.org/papers/volume13/biau12a/biau12a.pdf), [Paper 2](https://projecteuclid.org/journals/annals-of-statistics/volume-43/issue-4/Consistency-of-random-forests/10.1214/15-AOS1321.full) on theoretical analysis of random forests.
 * [Paper](https://erwanscornet.github.io/pdf/articlekernel.pdf) on kernel-based random forests.
+* [Paper](https://www.tandfonline.com/doi/abs/10.1080/01621459.2017.1319839?journalCode=uasa20) on nonparametric causal forest.
 
 *Lab*: 
 * Constructing classification trees using different node purity measures.
