@@ -133,7 +133,7 @@ In this lecture we cover tree-based methods and some ensemble methods. We start 
 
 *Lab*: 
 * Constructing classification trees using different node purity measures.
-* Implementing regression/classification trees, tree pruning, random forest and bagging in Python.
+* Implementing regression/classification trees, tree pruning, bagging and random forests in Python.
 ------
 #### Week 6. Reading Week
 
