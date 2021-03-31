@@ -132,7 +132,7 @@ In this lecture we cover tree-based methods and some ensemble methods. We start 
 * [Paper](https://www.tandfonline.com/doi/abs/10.1080/01621459.2017.1319839?journalCode=uasa20) on nonparametric causal forest.
 
 *Lab*: 
-* Constructing classification trees using different node purity measures.
+* Constructing classification trees using different node purity measures, [exercise sheet](https://github.com/lse-st510/Lectures2021/blob/main/Week5/Seminar%205%20exercise.pdf), [solution]{https://github.com/lse-st510/Lectures2021/blob/main/Week5/Solution%20to%20Seminar%205%20exercise.pdf}
 * Implementing regression/classification trees, tree pruning, bagging and random forests in Python.
 ------
 #### Week 6. Reading Week
