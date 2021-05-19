@@ -110,9 +110,13 @@ In this week we will introduce and describe the problem of non-convex optimisati
 ------
 #### Week 4. Support vector machines
 
-This week ...
+This week we focus on linear methods for high-dimensional supervised learning, with particular attention to classification with SVMs, kernel methods, and the "kernel trick." We begin with a brief review of logistic regression and classification with linear decision boundaries, then discuss maximum margin classification with SVMs, introduce kernels as a method for relatively automated feature transformation or embedding, discuss mathematical results that tell us kernel optimization problems reduce from high- and potentially infinite-dimensional to problems with dimension controlled by the sample size, and conclude by connecting these methods to regression via ridge (or L2) penalization.
 
 *Readings*:
+* [ESL](https://web.stanford.edu/~hastie/ElemStatLearn/) Chapter 12 for SVMs, 3.4 for ridge. Supplementary: 5.8 for RKHS in the splines context, and 6 on kernel regression
+* [AoS paper](https://projecteuclid.org/euclid.aos/1211819561) with solid definition-theorem presentation for statisticians ([arxiv version](https://arxiv.org/abs/math/0701907))
+* R package vignettes for [`kernlab`](https://cran.r-project.org/web/packages/kernlab/vignettes/kernlab.pdf) and/or [`e1071`](https://cran.r-project.org/web/packages/e1071/vignettes/svmdoc.pdf)
+* Python scikit learn documentation for [kernel ridge](https://scikit-learn.org/stable/modules/kernel_ridge.html) and [svm](https://scikit-learn.org/stable/modules/svm.html)
 
 *Lab*: TBD
 
