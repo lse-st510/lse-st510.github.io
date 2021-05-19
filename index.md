@@ -155,7 +155,7 @@ In part 2 we introduce the multilayer perceptron (MLP) or feed-forward neural ne
 - [Slides](https://joshualoftus.com/ml4ds/07-nonlinear/slides/07-1-nonlinearity-phd.html) for part 2 on neural nets
 
 *Readings*:
-### For part 1 on the lasso
+#### For part 1 on the lasso
 * Optimism / generalization gap (ESL 7.4-6)
 * Covariance penalty and degrees of freedom (CASI 12.3)
 * Cross-validation (ESL 7.10)
@@ -165,7 +165,7 @@ In part 2 we introduce the multilayer perceptron (MLP) or feed-forward neural ne
 * SLS 5.2 for KKT conditions
 * SLS 11 for theoretical resuls about lasso
 
-### For part 2 on neural networks
+#### For part 2 on neural networks
 
 * ESL Chapter 11 (pre-deep, solid foundation)
 * CASI Chapter 18
