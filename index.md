@@ -55,7 +55,8 @@ The availability as an outside option requires a demonstration of sufficient bac
 
 In this lecture we cover basic concepts and some of the key results of statistical learning theory. We start with an introduction to basic assumptions of the statistical learning framework and the key concept of *probably almost correct* (PAC) learning, and discuss the concept of the *bias-complexity trade-off*. We then discuss two facts for learning infinite hypothesis classes: first, that some infinite hypothesis classes are learnable, and second, that a universal learner that has no prior knowledge cannot be successful in learning any given task. We then introduce and discuss different concepts for learning infinite hypothesis classes, starting with  *uniform convergence* and showing that it is a sufficient condition for learning. We then introduce the concepts of *Rademacher complexity* and *growth function*, and fundamental bounds for learning using these concepts. Finally, we introduce the concept of *VC-dimension*, its relation to the growth function, and the *fundamental theorem of PAC learning*. 
 
-* Lecture [slides](https://github.com/lse-st510/Lectures2021/blob/main/Week1/Lecture1.pdf)
+* Lecture [slides](https://github.com/lse-st510/Lectures2021/blob/main/Week1/lecture1-slides.pdf)
+* Lecture [notes](https://github.com/lse-st510/Lectures2021/blob/main/Week1/lecture1.pdf)
 
 *Readings*:
 * Shai Shalev-Shwartz and Shai Ben-David, Understanding Machine Learning: from Theory to Algorithms, Cambridge University Press, 2014; [online](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
@@ -236,7 +237,7 @@ In this lecture we discuss some fundamental results of online learning. We start
 
 In this lecture we cover some popular reinforcement learning algorithms. We start with discussing applications that could benefit from applying reinforcement learning algorithms. We then introduce various basic concepts as well as the mathematical foundations of reinforcement learning. We next focus on one of the most popular class of reinforcement learning algorithms: Q-learning, and introduce some detailed algorithms such as tabular Q-learning, tabular SARSA, fitted Q-iteration and deep Q-network. Finally, we briefly talk about policy-based learning and highlight their difference from Q-learning.
 
-* Lecture [slides](https://github.com/lse-st510/Lectures2021/blob/main/Week11/Lecture10.pdf)
+* Lecture [slides](https://github.com/lse-st510/Lectures2021/blob/main/Week11/slides.pdf)
 
 *Readings*: 
 * Richard S. Sutton and Andrew G. Barto, Reinforcement Learning: An Introduction, Second Edition, MIT Press, Cambridge, MA, 2018; text [here](http://www.incompleteideas.net/book/the-book-2nd.html)
