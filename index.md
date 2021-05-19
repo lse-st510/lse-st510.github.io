@@ -145,11 +145,35 @@ In this lecture we cover tree-based methods and some ensemble methods. We start 
 ------
 #### Week 7. Neural networks
 
-This week ...
+In part 1 this week we focus on penalized regression methods for high-dimensional supervised learning, with particular attention to lasso. In part 2 we introduce deep learning with feed-forward neural networks.
 
-*Readings*: 
-* Ian Goodfellow, Yoshua Bengio, and Aaron Courville, Deep Learning, The MIT Press, 2016
-* Aston Zhang, Zack C. Lipton, Mu Li, and Alex J. Smola, Deep Dive into Deep Learning, 2020; text [here](https://d2l.ai/)
+Part 1 begins with a review of the Stein paradox and bias in estimation through the James-Stein estimator and ridge regression. The rest of the lecture then focuses on the lasso for sparse, interpretable regression in high-dimensional problems. We discuss the constrained and lagrangian forms of the lasso optimization problem, give some intuition about why solutions are sparse, interpret the Karush-Kuhn-Tucker conditions and compare them to ridge and OLS, investigate the degrees of freedom, optimism gap, and choosing the penalty parameter with cross-validation, and conclude by illustrating how model selection bias can invalidate classical linear regression inferences if computed on the same data used to select the model.
+
+In part 2 we introduce the multilayer perceptron (MLP) or feed-forward neural network architecture for building complex non-linear functions by compositions of simple non-linear functions. We discuss some of the terminology used to describe network architecture, give some intuition about why the depth of the network improves on using single hidden-layer networks, briefly focus on some of the specific issues that arise in optimization and fitting of these models, try to understand why such highly overparametrized models can have good generalization error, and briefly conclude with words of caution on out-of-distribution generalization and potential ethical issues with common deep learning applications like facial recognition.
+
+- [Slides](https://joshualoftus.com/ml4ds/06-regularization/slides/06-1-regularization-phd.html) for part 1 on lasso
+- [Slides](https://joshualoftus.com/ml4ds/07-nonlinear/slides/07-1-nonlinearity-phd.html) for part 2 on neural nets
+
+*Readings*:
+### For part 1 on the lasso
+* Optimism / generalization gap (ESL 7.4-6)
+* Covariance penalty and degrees of freedom (CASI 12.3)
+* Cross-validation (ESL 7.10)
+* SLS 2 for lasso, cross-validation, degrees of freedom
+* CASI 16 for lasso
+* CASI 20 / SLS 6 for inference after model selection
+* SLS 5.2 for KKT conditions
+* SLS 11 for theoretical resuls about lasso
+
+### For part 2 on neural networks
+
+* ESL Chapter 11 (pre-deep, solid foundation)
+* CASI Chapter 18
+* [MLstory](https://mlstory.org/index.html) chapters on optimization, generalization, deep learning, and datasets
+* [DLbook](https://www.deeplearningbook.org/), especially part II and chapters 6-9
+* Jared Tanner's [course](https://courses.maths.ox.ac.uk/node/37111) on theories of DL
+* [Paper](https://arxiv.org/abs/2102.11107) surveying applications to causality
+* Beyond feed-forward networks: architectures like RNN, GAN, LSTM, transformer (lecture 10)
 
 *Lab*: TBD
 
