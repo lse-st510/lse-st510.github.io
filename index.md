@@ -123,7 +123,10 @@ This week we focus on linear methods for high-dimensional supervised learning, w
 * R package vignettes for [`kernlab`](https://cran.r-project.org/web/packages/kernlab/vignettes/kernlab.pdf) and/or [`e1071`](https://cran.r-project.org/web/packages/e1071/vignettes/svmdoc.pdf)
 * Python scikit learn documentation for [kernel ridge](https://scikit-learn.org/stable/modules/kernel_ridge.html) and [svm](https://scikit-learn.org/stable/modules/svm.html)
 
-*Lab*: TBD
+*Lab*:
+* R markdown notebooks and some useful libraries
+* Classification with non-linear decision boundaries
+* Support vector machines and kernel SVM
 
 ------
 
@@ -181,6 +184,9 @@ In part 2 we introduce the multilayer perceptron (MLP) or feed-forward neural ne
 * Beyond feed-forward networks: architectures like RNN, GAN, LSTM, transformer (lecture 10)
 
 *Lab*: TBD
+* Simulation study of lasso/ridge for high-dimensional regression 
+* Inference for models selected by lasso
+* The keras neural network API and R package
 
 ------
 #### Week 8. Unsupervised learning - clustering
