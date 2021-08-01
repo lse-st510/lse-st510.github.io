@@ -7,7 +7,7 @@
 
 * Yining Chen, [y.chen101@lse.ac.uk](mailto:Y.Chen101@lse.ac.uk), Department of Statistics. *Office hours*: by appointment
 * Kostas Kalogeropoulos, [k.kalogeropoulos@lse.ac.uk](mailto:k.kalogeropoulos@lse.ac.uk), Department of Statistics.  *Office hours*: by appointment
-* Joshua Loftus, Department of Statistics. *Office hours*: by appointment
+* Joshua Loftus, [J.R.Loftus@lse.ac.uk](mailto:J.R.Loftus@lse.ac.uk), Department of Statistics. *Office hours*: by appointment
 * Xinghao Qiao, [x.qiao@lse.ac.uk](mailto:x.qiao@lse.ac.uk), Department of Statistics. *Office hours*: by appointment
 * Chengchun Shi, [c.shi7@lse.ac.uk](mailto:c.shi7@lse.ac.uk), Department of Statistics.  *Office hours*: by appointment
 * Milan Vojnovic, [m.vojnovic@lse.ac.uk](mailto:M.Vojnovic@lse.ac.uk), Department of Statistics.  *Office hours*: by appointment
