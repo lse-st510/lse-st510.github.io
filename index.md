@@ -1,7 +1,7 @@
 ![LSE](images/lse-logo.jpg)
 # ST510 Foundations of Machine Learning
 
-### Lent Term 2021
+### Lent Term 2022
 
 ### Instructors
 
