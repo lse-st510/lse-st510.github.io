@@ -14,7 +14,7 @@
 
 ### Teaching assistant
 
-* Bento Natura, [b.natura@lse.ac.uk](mailto:b.natura@lse.ac.uk), Department of Mathematics. *Office hours*: TBD
+* Bento Natura, [b.natura@lse.ac.uk](mailto:b.natura@lse.ac.uk), Department of Mathematics. *Office hours*: Tuesday, 9am - 10am, COL 1.06.
 
 Please use **LSE Student Hub** to book slots for seminar office hours.
 
