@@ -74,7 +74,8 @@ In this lecture we cover basic concepts and some of the key results of statistic
 
 In this lecture we cover basic concepts and algorithms of convex optimisation. We start with the definition of convexity and the implications of having a convex objective function to minimise. We then look into the unvariate case, focusing on bisection method, gradient descent and Newton-Raphson. We discuss the convergence rates, as well as some theory for the aforementioned algorithms. These algorithms are illustrated again in the multivariate setting. Other topics such as coordinate descent, stochastic gradient descent (SGD), and acceleration by momentum are also briefly mentioned.
 
-* Lecture [slides](https://github.com/lse-st510/Lectures2021/blob/main/Week2/Lecture2.pdf)
+* Lecture [slides](https://github.com/lse-st510/Lectures2022/blob/main/Week2/Lecture2.pdf)
+* See also course Moodle page for further materials (and some pre-recorded videos)
 
 *Readings*:
 * Stephen Boyd and Lieven Vandenberghe, Convex optimization, Cambridge University Press, 2004; book [here](http://web.stanford.edu/~boyd/cvxbook)
