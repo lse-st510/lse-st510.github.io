@@ -213,7 +213,7 @@ In this lecture we cover some commonly adopted clustering mehtods to find subgro
 
 In this lecture we cover some popular strategies and algorithms for dimension reduction. We start with principle component analysis (PCA), discussing various ways of performing and interpreting PCA, and showing their equivalence. We then move on to show how the PCA can be extended in different directions, either by having more constraints, or by performing non-linear (instead of linear) transformation. In particular, we briefly discuss the key ideas behind sparse PCA, non-negative matrix factorization (NMF), multidimensional scaling (MDS), and autoencoder.
 
-* Lecture [slides](https://github.com/lse-st510/Lectures2021/blob/main/Week9/Lecture_slides.pdf)
+* Lecture [slides](https://github.com/lse-st510/Lectures2022/blob/main/Week9/Lecture_8_slides.pdf)
 
 *Readings*:
 * Trevor Hastie, Robert Tibshirani, Jerome Friedman, The elements of statistical learning, Springer, 2009; book [here](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
