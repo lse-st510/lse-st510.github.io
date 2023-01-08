@@ -1,20 +1,20 @@
 ![LSE](images/lse-logo.jpg)
 # ST510 Foundations of Machine Learning
 
-### Lent Term 2022
+### Lent Term 2023
 
 ### Instructors
 
-* Yining Chen (Weeks 2 & 9), [y.chen101@lse.ac.uk](mailto:Y.Chen101@lse.ac.uk), Department of Statistics. *Office hours*: by appointment
+* Yining Chen (Weeks 2 & 10), [y.chen101@lse.ac.uk](mailto:Y.Chen101@lse.ac.uk), Department of Statistics. *Office hours*: by appointment
 * Kostas Kalogeropoulos (Week 3), [k.kalogeropoulos@lse.ac.uk](mailto:k.kalogeropoulos@lse.ac.uk), Department of Statistics.  *Office hours*: by appointment
 * Joshua Loftus (Weeks 4 & 7), [J.R.Loftus@lse.ac.uk](mailto:J.R.Loftus@lse.ac.uk), Department of Statistics. *Office hours*: by appointment
 * Xinghao Qiao (Weeks 5 & 8), [x.qiao@lse.ac.uk](mailto:x.qiao@lse.ac.uk), Department of Statistics. *Office hours*: by appointment
 * Chengchun Shi (Week 11), [c.shi7@lse.ac.uk](mailto:c.shi7@lse.ac.uk), Department of Statistics.  *Office hours*: by appointment
-* Milan Vojnovic (Weeks 1 & 10), [m.vojnovic@lse.ac.uk](mailto:M.Vojnovic@lse.ac.uk), Department of Statistics.  *Office hours*: by appointment
+* Milan Vojnovic (Weeks 1 & 9), [m.vojnovic@lse.ac.uk](mailto:M.Vojnovic@lse.ac.uk), Department of Statistics.  *Office hours*: by appointment
 
 ### Teaching assistant
 
-* Bento Natura, [b.natura@lse.ac.uk](mailto:b.natura@lse.ac.uk), Department of Mathematics. *Office hours*: Tuesday, 9am - 10am, COL 1.06.
+* TBA
 
 Please use **LSE Student Hub** to book slots for seminar office hours.
 
@@ -23,8 +23,8 @@ Please use **LSE Student Hub** to book slots for seminar office hours.
 |:----------:|:--------------------------------------|:----:|:----|
 | 1        | [Statistical learning theory](#week-1-statistical-learning-theory) | 7        | [Neural networks](#week-7-neural-networks)          |
 | 2        | [Convex optimisation](#week-2-convex-optimisation)                  | 8        | [Unsupervised learning - clustering](#week-8-unsupervised-learning-clustering) |
-| 3        | [Non-convex optimisation](#week-3-nonconvex-optimisation)    | 9        | [Unsupervised learning - dimension reduction](#week-9-unsupervised-learning-dimension-reduction)                   |
-| 4        | [Support vector machines](#week-4-support-vector-machines)       | 10       | [Online learning and optimisation](#week-10-online-learning-and-optimisation)           |
+| 3        | [Non-convex optimisation](#week-3-nonconvex-optimisation)    | 9        | [Online learning and optimisation](#week-10-online-learning-and-optimisation)          |
+| 4        | [Support vector machines](#week-4-support-vector-machines)       | 10       | [Unsupervised learning - dimension reduction](#week-9-unsupervised-learning-dimension-reduction)           |
 | 5        | [Decision trees and random forests](#week-5-decision-trees-and-random-forests)                  |  11       | [Reinforcement learning](#week11-reinforcement-learning)           |
 | 6        | _Reading Week_                       |
 
@@ -209,7 +209,24 @@ In this lecture we cover some commonly adopted clustering mehtods to find subgro
  * Implementing k-means clustering, hierarchical clustering and spectral clustering. [Python code](https://github.com/lse-st510/Lectures2021/blob/main/Week8/Seminar%207.ipynb).
 
 ------
-#### Week 9. Unsupervised learning - dimension reduction
+
+#### Week 9. Online learning
+
+In this lecture we discuss some fundamental results of online learning. We start with online classification where we introduce the basic concept of online learnability and the notion of Littlestone's dimension, prediction mistake bounds for various algorithms, and classic weighted majority algorithm and regret bounds derived by using this algorithm. We then consider online convex optimization and establish a regret bound of the online gradient descent algorithm. We finally discuss the online perceptron algorithm, and establish a bound for the prediction mistakes for this algorithm by showing that the perceptron algorithm is an online gradient descent algorithm defined for certain surrogate convex loss function. 
+
+*Readings*:
+* Shai Shalev-Shwartz and Shai Ben-David, Understanding Machine Learning: from Theory to Algorithms, Cambridge University Press, 2014; [online](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
+* Elad Hazan, Introduction to Online Convex Optimization, manuscript, 2019; [online](https://sites.google.com/view/intro-oco/). 
+* Alexandrs Slivkins, Introduction to Multi-Armed Bandits, Now Publishers, 2019 (Chapter 5); [online](https://arxiv.org/pdf/1904.07272.pdf).
+
+*Lab*:
+* Weighted majority algorithm
+* Adam optimizer
+* Online perceptron algorithm
+
+------
+
+#### Week 10. Unsupervised learning - dimension reduction
 
 In this lecture we cover some popular strategies and algorithms for dimension reduction. We start with principle component analysis (PCA), discussing various ways of performing and interpreting PCA, and showing their equivalence. We then move on to show how the PCA can be extended in different directions, either by having more constraints, or by performing non-linear (instead of linear) transformation. In particular, we briefly discuss the key ideas behind sparse PCA, non-negative matrix factorization (NMF), multidimensional scaling (MDS), and autoencoder.
 
@@ -225,21 +242,6 @@ In this lecture we cover some popular strategies and algorithms for dimension re
 *Lab*: 
 * Using PCA, NMF, MDS and autoencoder in Python
 * A discussion on Johnson-Lindenstrauss Lemma, see also a paper [here](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.6717&rep=rep1&type=pdf) 
-
-------
-#### Week 10. Online learning
-
-In this lecture we discuss some fundamental results of online learning. We start with online classification where we introduce the basic concept of online learnability and the notion of Littlestone's dimension, prediction mistake bounds for various algorithms, and classic weighted majority algorithm and regret bounds derived by using this algorithm. We then consider online convex optimization and establish a regret bound of the online gradient descent algorithm. We finally discuss the online perceptron algorithm, and establish a bound for the prediction mistakes for this algorithm by showing that the perceptron algorithm is an online gradient descent algorithm defined for certain surrogate convex loss function. 
-
-*Readings*:
-* Shai Shalev-Shwartz and Shai Ben-David, Understanding Machine Learning: from Theory to Algorithms, Cambridge University Press, 2014; [online](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
-* Elad Hazan, Introduction to Online Convex Optimization, manuscript, 2019; [online](https://sites.google.com/view/intro-oco/). 
-* Alexandrs Slivkins, Introduction to Multi-Armed Bandits, Now Publishers, 2019 (Chapter 5); [online](https://arxiv.org/pdf/1904.07272.pdf).
-
-*Lab*:
-* Weighted majority algorithm
-* Adam optimizer
-* Online perceptron algorithm
 
 ------
 #### Week 11. Reinforcement learning
