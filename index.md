@@ -23,8 +23,8 @@ Please use **LSE Student Hub** to book slots for seminar office hours.
 |:----------:|:--------------------------------------|:----:|:----|
 | 1        | [Statistical learning theory](#week-1-statistical-learning-theory) | 7        | [Neural networks](#week-7-neural-networks)          |
 | 2        | [Convex optimisation](#week-2-convex-optimisation)                  | 8        | [Unsupervised learning - clustering](#week-8-unsupervised-learning-clustering) |
-| 3        | [Non-convex optimisation](#week-3-nonconvex-optimisation)    | 9        | [Online learning and optimisation](#week-10-online-learning-and-optimisation)          |
-| 4        | [Support vector machines](#week-4-support-vector-machines)       | 10       | [Unsupervised learning - dimension reduction](#week-9-unsupervised-learning-dimension-reduction)           |
+| 3        | [Non-convex optimisation](#week-3-nonconvex-optimisation)    | 9        | [Online learning and optimisation](#week-9-online-learning-and-optimisation)          |
+| 4        | [Support vector machines](#week-4-support-vector-machines)       | 10       | [Unsupervised learning - dimension reduction](#week-10-unsupervised-learning-dimension-reduction)           |
 | 5        | [Decision trees and random forests](#week-5-decision-trees-and-random-forests)                  |  11       | [Reinforcement learning](#week11-reinforcement-learning)           |
 | 6        | _Reading Week_                       |
 
@@ -74,8 +74,9 @@ In this lecture we cover basic concepts and some of the key results of statistic
 
 In this lecture we cover basic concepts and algorithms of convex optimisation. We start with the definition of convexity and the implications of having a convex objective function to minimise. We then look into the unvariate case, focusing on bisection method, gradient descent and Newton-Raphson. We discuss the convergence rates, as well as some theory for the aforementioned algorithms. These algorithms are illustrated again in the multivariate setting. Other topics such as coordinate descent, stochastic gradient descent (SGD), and acceleration by momentum are also briefly mentioned.
 
-* Lecture [slides](https://github.com/lse-st510/Lectures2022/blob/main/Week2/Lecture2.pdf)
-* See also course Moodle page for further materials (and some pre-recorded videos)
+* Lecture [slides](https://github.com/lse-st510/Lectures2023/blob/main/Week2/Lecture2.pdf)
+* Seminar [PDFs + Python Code](https://github.com/lse-st510/Lecture2023/tree/main/Week2)
+* See also course Moodle page for further materials
 
 *Readings*:
 * Stephen Boyd and Lieven Vandenberghe, Convex optimization, Cambridge University Press, 2004; book [here](http://web.stanford.edu/~boyd/cvxbook)
@@ -230,7 +231,7 @@ In this lecture we discuss some fundamental results of online learning. We start
 
 In this lecture we cover some popular strategies and algorithms for dimension reduction. We start with principle component analysis (PCA), discussing various ways of performing and interpreting PCA, and showing their equivalence. We then move on to show how the PCA can be extended in different directions, either by having more constraints, or by performing non-linear (instead of linear) transformation. In particular, we briefly discuss the key ideas behind sparse PCA, non-negative matrix factorization (NMF), multidimensional scaling (MDS), and autoencoder.
 
-* Lecture [slides](https://github.com/lse-st510/Lectures2022/blob/main/Week9/Lecture_8_slides.pdf)
+* Lecture [slides](https://github.com/lse-st510/Lectures2023/blob/main/Week10/Lecture_10_slides.pdf)
 
 *Readings*:
 * Trevor Hastie, Robert Tibshirani, Jerome Friedman, The elements of statistical learning, Springer, 2009; book [here](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
