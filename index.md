@@ -16,16 +16,15 @@
 
 ### Teaching assistant
 
-* TBA
+* Jin Zhu, [j.zhu69@lse.ac.uk](mailto:j.zhu69@lse.ac.uk), Department of Statistics. *Office hours*: TBA
 
 Please use **LSE Student Hub** to book slots for seminar office hours.
-
 
 | **Week** | **Topic**                            | **Week** | **Topic**      |
 |:----------:|:--------------------------------------|:----:|:----|
 | 1        | [Statistical learning theory](#week-1-statistical-learning-theory) | 7        | [Neural networks](#week-7-neural-networks)          |
 | 2        | [Convex optimisation](#week-2-convex-optimisation)                  | 8        | [Unsupervised learning - clustering](#week-8-unsupervised-learning-clustering) |
-| 3        | [Non-convex optimisation](#week-3-nonconvex-optimisation)    | 9        | [Online learning and optimisation](#week-9-online-learning-and-optimisation)          |
+| 3        | [Non-convex optimisation](#week-3-nonconvex-optimisation)    | 9        | [High-dimensional regression and optimisation](#week-9-high-dimensional-regression-and-optimisation)          |
 | 4        | [Support vector machines](#week-4-support-vector-machines)       | 10       | [Unsupervised learning - dimension reduction](#week-10-unsupervised-learning-dimension-reduction)           |
 | 5        | [Decision trees and random forests](#week-5-decision-trees-and-random-forests)                  |  11       | [Reinforcement learning](#week11-reinforcement-learning)           |
 | 6        | _Reading Week_                       |
