@@ -5,8 +5,8 @@
 
 ### Instructors
 
-* Chengchun Shi (Week 1 & 11), [c.shi7@lse.ac.uk](mailto:c.shi7@lse.ac.uk), Department of Statistics.  *Office hours*: by appointment
-* Yining Chen (Weeks 2 & 10), [y.chen101@lse.ac.uk](mailto:Y.Chen101@lse.ac.uk), Department of Statistics. *Office hours*: by appointment
+* Chengchun Shi (Week 1 & 10), [c.shi7@lse.ac.uk](mailto:c.shi7@lse.ac.uk), Department of Statistics.  *Office hours*: by appointment
+* Yining Chen (Weeks 2 & 11), [y.chen101@lse.ac.uk](mailto:Y.Chen101@lse.ac.uk), Department of Statistics. *Office hours*: by appointment
 * Kostas Kalogeropoulos (Week 3), [k.kalogeropoulos@lse.ac.uk](mailto:k.kalogeropoulos@lse.ac.uk), Department of Statistics.  *Office hours*: by appointment
 * Zoltan Szabo (Week 4), [z.szabo@lse.ac.uk](mailto:z.szabo@lse.ac.uk), Department of Statistics. *Office hours*: by appointment
 * Marcos Barreto (Week 5), [m.e.barreto@lse.ac.uk](mailto:m.e.barreto@lse.ac.uk), Department of Statistics. *Office hours*: by appointment
