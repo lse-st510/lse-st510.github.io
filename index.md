@@ -37,7 +37,7 @@ The goal of this course is to provide students with a training in foundations of
 
 ### Organization
 
-The course will involve 20 hours of lectures and 10 hours of computer workshops in the LT.
+The course will involve 20 hours of lectures and 10 hours of computer workshops in the WT.
 
 ### Prerequisites
 
