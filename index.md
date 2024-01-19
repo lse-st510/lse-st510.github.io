@@ -25,8 +25,8 @@ Please use **LSE Student Hub** to book slots for seminar office hours.
 | 1        | [Statistical learning theory](#week-1-statistical-learning-theory) | 7        | [Neural networks](#week-7-neural-networks)          |
 | 2        | [Convex optimisation](#week-2-convex-optimisation)                  | 8        | [Unsupervised learning - clustering](#week-8-unsupervised-learning-clustering) |
 | 3        | [Non-convex optimisation](#week-3-nonconvex-optimisation)    | 9        | [High-dimensional regression and optimisation](#week-9-high-dimensional-regression-and-optimisation)          |
-| 4        | [Support vector machines](#week-4-support-vector-machines)       | 10       | [Unsupervised learning - dimension reduction](#week-10-unsupervised-learning-dimension-reduction)           |
-| 5        | [Decision trees and random forests](#week-5-decision-trees-and-random-forests)                  |  11       | [Reinforcement learning](#week11-reinforcement-learning)           |
+| 4        | [Support vector machines](#week-4-support-vector-machines)       | 10       | [Reinforcement learning](#week11-reinforcement-learning)          |
+| 5        | [Decision trees and random forests](#week-5-decision-trees-and-random-forests)                  |  11       | [Unsupervised learning - dimension reduction](#week-10-unsupervised-learning-dimension-reduction)                     |
 | 6        | _Reading Week_                       |
 
 
@@ -213,8 +213,25 @@ In this lecture we begins with a review of the Stein paradox and bias in estimat
 * Inference for models selected by lasso
 
 ------
+#### Week 10. Reinforcement learning
 
-#### Week 10. Unsupervised learning - dimension reduction
+In this lecture we cover some popular reinforcement learning algorithms. We start with discussing applications that could benefit from applying reinforcement learning algorithms. We then introduce various basic concepts as well as the mathematical foundations of reinforcement learning. We next focus on one of the most popular class of reinforcement learning algorithms: Q-learning, and introduce some detailed algorithms such as tabular Q-learning, tabular SARSA, fitted Q-iteration and deep Q-network. Finally, we briefly talk about policy-based learning and highlight their difference from Q-learning.
+
+* Lecture [slides](https://github.com/lse-st510/Lectures2024/blob/main/Week11/slides.pdf)
+
+*Readings*: 
+* Richard S. Sutton and Andrew G. Barto, Reinforcement Learning: An Introduction, Second Edition, MIT Press, Cambridge, MA, 2018; text [here](http://www.incompleteideas.net/book/the-book-2nd.html)
+* Martin L. Puterman, Markov decision processes: discrete stochastic dynamic programming. John Wiley & Sons, 2014.
+
+
+*Lab*: 
+* An introduction of OpenAI Gym
+* Q-learning
+* Policy-based learning
+
+------
+
+#### Week 11. Unsupervised learning - dimension reduction
 
 In this lecture we cover some popular strategies and algorithms for dimension reduction. We start with principle component analysis (PCA), discussing various ways of performing and interpreting PCA, and showing their equivalence. We then move on to show how the PCA can be extended in different directions, either by having more constraints, or by performing non-linear (instead of linear) transformation. In particular, we briefly discuss the key ideas behind sparse PCA, non-negative matrix factorization (NMF), multidimensional scaling (MDS), and autoencoder.
 
@@ -231,19 +248,3 @@ In this lecture we cover some popular strategies and algorithms for dimension re
 * Using PCA, NMF, MDS and autoencoder in Python
 * A discussion on Johnson-Lindenstrauss Lemma, see also a paper [here](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.6717&rep=rep1&type=pdf) 
 
-------
-#### Week 11. Reinforcement learning
-
-In this lecture we cover some popular reinforcement learning algorithms. We start with discussing applications that could benefit from applying reinforcement learning algorithms. We then introduce various basic concepts as well as the mathematical foundations of reinforcement learning. We next focus on one of the most popular class of reinforcement learning algorithms: Q-learning, and introduce some detailed algorithms such as tabular Q-learning, tabular SARSA, fitted Q-iteration and deep Q-network. Finally, we briefly talk about policy-based learning and highlight their difference from Q-learning.
-
-* Lecture [slides](https://github.com/lse-st510/Lectures2024/blob/main/Week11/slides.pdf)
-
-*Readings*: 
-* Richard S. Sutton and Andrew G. Barto, Reinforcement Learning: An Introduction, Second Edition, MIT Press, Cambridge, MA, 2018; text [here](http://www.incompleteideas.net/book/the-book-2nd.html)
-* Martin L. Puterman, Markov decision processes: discrete stochastic dynamic programming. John Wiley & Sons, 2014.
-
-
-*Lab*: 
-* An introduction of OpenAI Gym
-* Q-learning
-* Policy-based learning 
