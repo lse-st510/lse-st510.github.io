@@ -132,8 +132,30 @@ This week we focus on linear methods for high-dimensional supervised learning, w
 * Support vector machines and kernel SVM
 
 ------
+#### Week 5. High-dimensional regression and optimization
 
-#### Week 5. Decision trees and random forests
+In this lecture we begins with a review of the Stein paradox and bias in estimation through the James-Stein estimator and ridge regression. The rest of the lecture then focuses on the lasso for sparse, interpretable regression in high-dimensional problems. We discuss the constrained and lagrangian forms of the lasso optimization problem, give some intuition about why solutions are sparse, interpret the Karush-Kuhn-Tucker conditions and compare them to ridge and OLS, investigate the degrees of freedom, optimism gap, and choosing the penalty parameter with cross-validation, and conclude by illustrating how model selection bias can invalidate classical linear regression inferences if computed on the same data used to select the model.
+
+*Readings*:
+* Optimism / generalization gap (ESL 7.4-6)
+* Covariance penalty and degrees of freedom (CASI 12.3)
+* Cross-validation (ESL 7.10)
+* SLS 2 for lasso, cross-validation, degrees of freedom
+* CASI 16 for lasso
+* CASI 20 / SLS 6 for inference after model selection
+* SLS 5.2 for KKT conditions
+* SLS 11 for theoretical resuls about lasso
+
+*Lab*:
+* Simulation study of lasso/ridge for high-dimensional regression
+* Inference for models selected by lasso
+
+------
+
+#### Week 6. Reading Week
+
+------
+#### Week 7. Decision trees and random forests
 
 In this lecture we cover tree-based methods and some ensemble methods. We start with regression and classification trees, discussing the estimation procedure, cost complexity pruning, different node purity measures and illustrative examples. We then discuss bagging and random forests, including e.g. the variance reduction, Out-of-Bag errors and kernel-based random forests. Some recent developments of random forests will also be briefly mentioned.
 
@@ -149,12 +171,9 @@ In this lecture we cover tree-based methods and some ensemble methods. We start 
 *Lab*: 
 * Constructing classification trees using different node purity measures. [Exercise sheet](https://github.com/lse-st510/Lectures2021/blob/main/Week5/Seminar%205%20exercise.pdf) and [solution](https://github.com/lse-st510/Lectures2021/blob/main/Week5/Solution%20to%20Seminar%205%20exercise.pdf).
 * Implementing regression/classification trees, tree pruning, bagging and random forests. [Python code](https://github.com/lse-st510/Lectures2021/blob/main/Week5/Seminar5.ipynb).
-------
-#### Week 6. Reading Week
-
 
 ------
-#### Week 7. Neural networks
+#### Week 8. Neural networks
 
 In this week we focus on deep learning with feed-forward neural networks. In particular, we introduce the multilayer perceptron (MLP) or feed-forward neural network architecture for building complex non-linear functions by compositions of simple non-linear functions. We discuss some of the terminology used to describe network architecture, give some intuition about why the depth of the network improves on using single hidden-layer networks, briefly focus on some of the specific issues that arise in optimization and fitting of these models, try to understand why such highly overparametrized models can have good generalization error, and briefly conclude with words of caution on out-of-distribution generalization and potential ethical issues with common deep learning applications like facial recognition.
 
@@ -174,7 +193,7 @@ In this week we focus on deep learning with feed-forward neural networks. In par
 * The keras neural network API and R package
 
 ------
-#### Week 8. Unsupervised learning - clustering
+#### Week 9. Unsupervised learning - clustering
 
 In this lecture we cover some commonly adopted clustering mehtods to find subgroups and clusters in a dataset. We start with k-means clustering, discussing k-means alogirthm, "overfit then merge" strategy, k-means++ algortihm, the selection of k, theoretical guarantees and high-dimensional clusterings. We then briefly discuss hierarchical clustering including the algorithm, types of linkage and similarity measures. Finally, we discuss spectral clustering using ideas related to eigenanalysis, including different types Laplacians, supporting theorems, the algorithm and illustrative examples.
 
@@ -194,25 +213,7 @@ In this lecture we cover some commonly adopted clustering mehtods to find subgro
 
 ------
 
-#### Week 9. High-dimensional regression and optimization
 
-In this lecture we begins with a review of the Stein paradox and bias in estimation through the James-Stein estimator and ridge regression. The rest of the lecture then focuses on the lasso for sparse, interpretable regression in high-dimensional problems. We discuss the constrained and lagrangian forms of the lasso optimization problem, give some intuition about why solutions are sparse, interpret the Karush-Kuhn-Tucker conditions and compare them to ridge and OLS, investigate the degrees of freedom, optimism gap, and choosing the penalty parameter with cross-validation, and conclude by illustrating how model selection bias can invalidate classical linear regression inferences if computed on the same data used to select the model.
-
-*Readings*:
-* Optimism / generalization gap (ESL 7.4-6)
-* Covariance penalty and degrees of freedom (CASI 12.3)
-* Cross-validation (ESL 7.10)
-* SLS 2 for lasso, cross-validation, degrees of freedom
-* CASI 16 for lasso
-* CASI 20 / SLS 6 for inference after model selection
-* SLS 5.2 for KKT conditions
-* SLS 11 for theoretical resuls about lasso
-
-*Lab*:
-* Simulation study of lasso/ridge for high-dimensional regression
-* Inference for models selected by lasso
-
-------
 #### Week 10. Reinforcement learning
 
 In this lecture we cover some popular reinforcement learning algorithms. We start with discussing applications that could benefit from applying reinforcement learning algorithms. We then introduce various basic concepts as well as the mathematical foundations of reinforcement learning. We next focus on one of the most popular class of reinforcement learning algorithms: Q-learning, and introduce some detailed algorithms such as tabular Q-learning, tabular SARSA, fitted Q-iteration and deep Q-network. Finally, we briefly talk about policy-based learning and highlight their difference from Q-learning.
