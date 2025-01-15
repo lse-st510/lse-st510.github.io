@@ -9,24 +9,24 @@
 * Yining Chen (Weeks 2 & 11), [y.chen101@lse.ac.uk](mailto:Y.Chen101@lse.ac.uk), Department of Statistics. *Office hours*: by appointment
 * Kostas Kalogeropoulos (Week 3), [k.kalogeropoulos@lse.ac.uk](mailto:k.kalogeropoulos@lse.ac.uk), Department of Statistics.  *Office hours*: by appointment
 * Zoltan Szabo (Week 4), [z.szabo@lse.ac.uk](mailto:z.szabo@lse.ac.uk), Department of Statistics. *Office hours*: by appointment
-* Marcos Barreto (Week 5), [m.e.barreto@lse.ac.uk](mailto:m.e.barreto@lse.ac.uk), Department of Statistics. *Office hours*: by appointment
-* Francesca Panero (Week 7), [f.panero@lse.ac.uk](mailto:f.panero@lse.ac.uk), Department of Statistics. *Office hours*: by appointment
-* Mona Azadkia (Week 8), [m.azadkia@lse.ac.uk](mailto:m.azadkia@lse.ac.uk), Department of Statistics. *Office hours*: by appointment
-* Joshua Loftus (Weeks 9), [J.R.Loftus@lse.ac.uk](mailto:J.R.Loftus@lse.ac.uk), Department of Statistics. *Office hours*: by appointment
+* Joshua Loftus (Week 5), [J.R.Loftus@lse.ac.uk](mailto:J.R.Loftus@lse.ac.uk), Department of Statistics. *Office hours*: by appointment
+* Jin Zhu (Week 7), [j.zhu69@lse.ac.uk](mailto:j.zhu69@lse.ac.uk), Department of Statistics. 
+* Milan Vojnovic (Week 8), [m.vojnovic@lse.ac.uk](mailto:m.vojnovic@lse.ac.uk), Department of Statistics. *Office hours*: by appointment
+* Mona Azadkia (Weeks 9), [m.azadkia@lse.ac.uk](mailto:m.azadkia@lse.ac.uk), Department of Statistics. *Office hours*: by appointment
 
 ### Teaching assistant
 
-* Jin Zhu, [j.zhu69@lse.ac.uk](mailto:j.zhu69@lse.ac.uk), Department of Statistics. *Office hours*: TBA
+* Jin Zhu, [j.zhu69@lse.ac.uk](mailto:j.zhu69@lse.ac.uk), Department of Statistics. *Office hours*: Thur 15-16pm, COL 7.07.
 
 Please use **LSE Student Hub** to book slots for seminar office hours.
 
 | **Week** | **Topic**                            | **Week** | **Topic**      |
 |:----------:|:--------------------------------------|:----:|:----|
-| 1        | [Statistical learning theory](#week-1-statistical-learning-theory) | 7        | [Neural networks](#week-7-neural-networks)          |
-| 2        | [Convex optimisation](#week-2-convex-optimisation)                  | 8        | [Unsupervised learning - clustering](#week-8-unsupervised-learning-clustering) |
-| 3        | [Non-convex optimisation](#week-3-nonconvex-optimisation)    | 9        | [High-dimensional regression and optimisation](#week-9-high-dimensional-regression-and-optimisation)          |
+| 1        | [Statistical learning theory](#week-1-statistical-learning-theory) | 7        |  [Decision trees and random forests](#week-5-decision-trees-and-random-forests)          |
+| 2        | [Convex optimisation](#week-2-convex-optimisation)                  | 8        | [Neural networks](#week-7-neural-networks)|
+| 3        | [Non-convex optimisation](#week-3-nonconvex-optimisation)    | 9        | [Unsupervised learning - clustering](#week-8-unsupervised-learning-clustering)         |
 | 4        | [Support vector machines](#week-4-support-vector-machines)       | 10       | [Reinforcement learning](#week11-reinforcement-learning)          |
-| 5        | [Decision trees and random forests](#week-5-decision-trees-and-random-forests)                  |  11       | [Unsupervised learning - dimension reduction](#week-10-unsupervised-learning-dimension-reduction)                     |
+| 5        | [High-dimensional regression and optimisation](#week-9-high-dimensional-regression-and-optimisation)                  |  11       | [Unsupervised learning - dimension reduction](#week-10-unsupervised-learning-dimension-reduction)                     |
 | 6        | _Reading Week_                       |
 
 
