@@ -56,8 +56,7 @@ The availability as an outside option requires a demonstration of sufficient bac
 
 In this lecture we cover basic concepts and some of the key results of statistical learning theory. We start with an introduction to basic assumptions of the statistical learning framework and the key concept of *probably almost correct* (PAC) learning, and discuss the concept of the *bias-complexity trade-off*. We then discuss two facts for learning infinite hypothesis classes: first, that some infinite hypothesis classes are learnable, and second, that a universal learner that has no prior knowledge cannot be successful in learning any given task. We then introduce and discuss different concepts for learning infinite hypothesis classes, starting with  *uniform convergence* and showing that it is a sufficient condition for learning. We then introduce the concepts of *Rademacher complexity* and *growth function*, and fundamental bounds for learning using these concepts. Finally, we introduce the concept of *VC-dimension*, its relation to the growth function, and the *fundamental theorem of PAC learning*. 
 
-* Lecture [slides](https://github.com/lse-st510/Lectures2024/blob/main/Week1/lecture1-slides.pdf)
-* Lecture [notes](https://github.com/lse-st510/Lectures2024/blob/main/Week1/lecture1.pdf)
+* Lecture [slides](https://github.com/lse-st510/Lectures2025/blob/main/Week1/ST510-lecture1.pdf)
 
 *Readings*:
 * Shai Shalev-Shwartz and Shai Ben-David, Understanding Machine Learning: from Theory to Algorithms, Cambridge University Press, 2014; [online](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
@@ -75,7 +74,7 @@ In this lecture we cover basic concepts and some of the key results of statistic
 
 In this lecture we cover basic concepts and algorithms of convex optimisation. We start with the definition of convexity and the implications of having a convex objective function to minimise. We then look into the unvariate case, focusing on bisection method, gradient descent and Newton-Raphson. We discuss the convergence rates, as well as some theory for the aforementioned algorithms. These algorithms are illustrated again in the multivariate setting. Other topics such as coordinate descent, stochastic gradient descent (SGD), and acceleration by momentum are also briefly mentioned.
 
-* Lecture [slides](https://github.com/lse-st510/Lectures2024/blob/main/Week2/Lecture_2.pdf)
+* Lecture [slides](https://github.com/lse-st510/Lectures2025/blob/main/Week2/Lecture_2.pdf)
 * Seminar [PDFs + Python Code](https://github.com/lse-st510/Lectures2024/tree/main/Week2)
 * See also course Moodle page for further materials
 
@@ -97,7 +96,7 @@ In this lecture we cover basic concepts and algorithms of convex optimisation. W
 
 In this week we will introduce and describe the problem of non-convex optimisation. This is problem is particularly challenging, known as a *NP-Hard* problem. We will focus on techniques such as Random Gradient Descent methods, Bayesian optimisation, Markov Chain Monte Carlo and we will briefly touch Genetic Algorithms. The focus will be on the principles while keeping close tabs with applications. You can find the lecture slides below as well as some further reading which you may explore further if want to do a project on non-convex optimisation.
 
-* Lecture [slides](https://github.com/lse-st510/Lectures2024/blob/main/Week3/SlidesWeek03.pdf)
+* Lecture [slides](https://github.com/lse-st510/Lectures2025/blob/main/Week3/SlidesWeek03.pdf)
 
 *Readings*:
 * [Tutorial](https://arxiv.org/abs/1807.02811) on Bayesian Optimisation by Peter Frazier
@@ -159,7 +158,7 @@ In this lecture we begins with a review of the Stein paradox and bias in estimat
 
 In this lecture we cover tree-based methods and some ensemble methods. We start with regression and classification trees, discussing the estimation procedure, cost complexity pruning, different node purity measures and illustrative examples. We then discuss bagging and random forests, including e.g. the variance reduction, Out-of-Bag errors and kernel-based random forests. Some recent developments of random forests will also be briefly mentioned.
 
-* Lecture [slides](https://github.com/lse-st510/Lectures2024/blob/main/Week5/ST510_Lecture%205%20slides.pdf)
+* Lecture [slides](https://github.com/lse-st510/Lectures2025/blob/main/Week7/ST510_Lecture%205%20slides.pdf)
 
 *Readings*:
 * [Textbook](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) on regression/classification trees, bagging and random forests.
@@ -177,7 +176,7 @@ In this lecture we cover tree-based methods and some ensemble methods. We start 
 
 In this week we focus on deep learning with feed-forward neural networks. In particular, we introduce the multilayer perceptron (MLP) or feed-forward neural network architecture for building complex non-linear functions by compositions of simple non-linear functions. We discuss some of the terminology used to describe network architecture, give some intuition about why the depth of the network improves on using single hidden-layer networks, briefly focus on some of the specific issues that arise in optimization and fitting of these models, try to understand why such highly overparametrized models can have good generalization error, and briefly conclude with words of caution on out-of-distribution generalization and potential ethical issues with common deep learning applications like facial recognition.
 
-- Lecture [slides](https://github.com/lse-st510/Lectures2024/blob/main/Week3/SlidesWeek07.pdf)
+- Lecture [slides](https://github.com/lse-st510/Lectures2025/blob/main/Week8/SlidesWeek07.pdf)
 
 *Readings*:
 
@@ -197,7 +196,7 @@ In this week we focus on deep learning with feed-forward neural networks. In par
 
 In this lecture we cover some commonly adopted clustering mehtods to find subgroups and clusters in a dataset. We start with k-means clustering, discussing k-means alogirthm, "overfit then merge" strategy, k-means++ algortihm, the selection of k, theoretical guarantees and high-dimensional clusterings. We then briefly discuss hierarchical clustering including the algorithm, types of linkage and similarity measures. Finally, we discuss spectral clustering using ideas related to eigenanalysis, including different types Laplacians, supporting theorems, the algorithm and illustrative examples.
 
-* Lecture [slides](https://github.com/lse-st510/Lectures2024/blob/main/Week8/ST510_Lecture%207%20slides.pdf).
+* Lecture [slides](https://github.com/lse-st510/Lectures2025/blob/main/Week9/ST510_Lecture%207%20slides.pdf).
 
 *Readings*:
 * [Textbook](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) on k-means and hierarchical clustering.
@@ -218,7 +217,7 @@ In this lecture we cover some commonly adopted clustering mehtods to find subgro
 
 In this lecture we cover some popular reinforcement learning algorithms. We start with discussing applications that could benefit from applying reinforcement learning algorithms. We then introduce various basic concepts as well as the mathematical foundations of reinforcement learning. We next focus on one of the most popular class of reinforcement learning algorithms: Q-learning, and introduce some detailed algorithms such as tabular Q-learning, tabular SARSA, fitted Q-iteration and deep Q-network. Finally, we briefly talk about policy-based learning and highlight their difference from Q-learning.
 
-* Lecture [slides](https://github.com/lse-st510/Lectures2024/blob/main/Week11/slides.pdf)
+* Lecture [slides](https://github.com/lse-st510/Lectures2025/blob/main/Week10/slides.pdf)
 
 *Readings*: 
 * Richard S. Sutton and Andrew G. Barto, Reinforcement Learning: An Introduction, Second Edition, MIT Press, Cambridge, MA, 2018; text [here](http://www.incompleteideas.net/book/the-book-2nd.html)
@@ -236,7 +235,7 @@ In this lecture we cover some popular reinforcement learning algorithms. We star
 
 In this lecture we cover some popular strategies and algorithms for dimension reduction. We start with principle component analysis (PCA), discussing various ways of performing and interpreting PCA, and showing their equivalence. We then move on to show how the PCA can be extended in different directions, either by having more constraints, or by performing non-linear (instead of linear) transformation. In particular, we briefly discuss the key ideas behind sparse PCA, non-negative matrix factorization (NMF), multidimensional scaling (MDS), and autoencoder.
 
-* Lecture [slides](https://github.com/lse-st510/Lecture2024/blob/main/Week10/Lecture_10_slides.pdf)
+* Lecture [slides](https://github.com/lse-st510/Lecture2024/blob/main/Week11/Lecture_10_slides.pdf)
 
 *Readings*:
 * Trevor Hastie, Robert Tibshirani, Jerome Friedman, The elements of statistical learning, Springer, 2009; book [here](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
