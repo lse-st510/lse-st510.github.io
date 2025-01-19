@@ -57,6 +57,8 @@ The availability as an outside option requires a demonstration of sufficient bac
 In this lecture we cover basic concepts and some of the key results of statistical learning theory. We start with an introduction to basic assumptions of the statistical learning framework and the key concept of *probably almost correct* (PAC) learning, and discuss the concept of the *bias-complexity trade-off*. We then discuss two facts for learning infinite hypothesis classes: first, that some infinite hypothesis classes are learnable, and second, that a universal learner that has no prior knowledge cannot be successful in learning any given task. We then introduce and discuss different concepts for learning infinite hypothesis classes, starting with  *uniform convergence* and showing that it is a sufficient condition for learning. We then introduce the concepts of *Rademacher complexity* and *growth function*, and fundamental bounds for learning using these concepts. Finally, we introduce the concept of *VC-dimension*, its relation to the growth function, and the *fundamental theorem of PAC learning*. 
 
 * Lecture [slides](https://github.com/lse-st510/Lectures2025/blob/main/Week1/ST510-lecture1.pdf)
+* Lecture [notes](https://github.com/lse-st510/Lectures2025/blob/main/Week1/ST510-lecture-1-notes.pdf)
+
 
 *Readings*:
 * Shai Shalev-Shwartz and Shai Ben-David, Understanding Machine Learning: from Theory to Algorithms, Cambridge University Press, 2014; [online](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
