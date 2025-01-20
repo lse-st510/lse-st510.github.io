@@ -1,7 +1,7 @@
 ![LSE](images/lse-logo.jpg)
 # ST510 Foundations of Machine Learning
 
-### Winter Term 2023 - 2024
+### Winter Term 2024 - 2025
 
 ### Instructors
 
